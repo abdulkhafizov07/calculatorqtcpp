@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_CalculatorApp_FILE /Users/test_2018_32lik/Desktop/Dat/Learning/DesktopDevelopment/wCpp/calculator/build/CalculatorApp)
+set(__QT_DEPLOY_TARGET_CalculatorApp_TYPE EXECUTABLE)
