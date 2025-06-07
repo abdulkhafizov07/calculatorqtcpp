@@ -1,5 +1,0 @@
-/Users/test_2018_32lik/Desktop/Dat/Learning/DesktopDevelopment/wCpp/calculator/build/CMakeFiles/CalculatorApp.dir
-/Users/test_2018_32lik/Desktop/Dat/Learning/DesktopDevelopment/wCpp/calculator/build/CMakeFiles/edit_cache.dir
-/Users/test_2018_32lik/Desktop/Dat/Learning/DesktopDevelopment/wCpp/calculator/build/CMakeFiles/rebuild_cache.dir
-/Users/test_2018_32lik/Desktop/Dat/Learning/DesktopDevelopment/wCpp/calculator/build/CMakeFiles/CalculatorApp_autogen_timestamp_deps.dir
-/Users/test_2018_32lik/Desktop/Dat/Learning/DesktopDevelopment/wCpp/calculator/build/CMakeFiles/CalculatorApp_autogen.dir
